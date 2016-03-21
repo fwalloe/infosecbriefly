@@ -1,0 +1,16 @@
+
+:hp-tags: Cisco, motd, message of the day, CCNA
+
+= How to: set Message Of The Day (MOTD) on a Cisco router
+
+In Global Configuraton Mode, type: 
+
+ banner motd the #message of the day#
+
+The first character after _motd_ becomes the delimiter, which we use to set the start and end of the message. This example uses the hashtag # as the delimiter. 
+
+When a user tries to access the router they will see the message:
+
+ message of the day
+
+Note that any character can be used as the delimiter, provided that it only appears at the start and end of the message.
