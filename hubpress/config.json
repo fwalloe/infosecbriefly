@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "fwalloe",
-    "repositoryName": "showInfoSecbrief",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"fwalloe","repositoryName":"showInfoSecbrief","branch":"gh-pages"},"site":{"title":"Show InfoSec Brief","description":"Information Security news and how-tos in 200 words or less","googleAnalytics":"UA-75413407-1","url":"https://fwalloe.github.io/showInfoSecbrief"},"socialnetwork":{},"theme":{"name":"Casper","url":"//fwalloe.github.io/showInfoSecbrief/themes/Casper"}}
