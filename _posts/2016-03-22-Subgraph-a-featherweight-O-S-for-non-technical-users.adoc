@@ -1,0 +1,14 @@
+:hp-tags: Subgraph, linux, OS, operating system, news
+
+= Subgraph - a featherweight OS for non-technical users
+
+The Debian-based Subgraph OS, first released in 2015, is a featherweight open-source solution that comes with all the security and privacy options pre-configured so that non-technical users abandon Windows without the hassle that 
+
+[horizontal]
+.Key features
+Full Disk Encryption:: On by default
+Tor:: All traffic goes through it
+Application sandboxing:: using Containe
+System and Kernel Security:: Grssecurity+++
+Secure Mail Services:: with simple PGP key management
+
