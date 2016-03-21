@@ -12,5 +12,5 @@ Application sandboxing:: Using Containe
 System and Kernel Security:: Grssecurity+++
 Secure Mail Services:: With simple PGP key management
 
-image:http://motherboard-images.vice.com/content-images/contentimage/30819/1456160032249838.jpg[]
+image:https://3.bp.blogspot.com/-dzfMPQtWGJM/Vtl00T8UO0I/AAAAAAAAnFM/pRaH8Atv0lg/s1600/subgraph-secure-operating-system.png[]
 
