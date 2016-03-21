@@ -8,7 +8,7 @@ The Debian-based Subgraph OS, first released in 2015, is a featherweight open-so
 .Key features
 Full Disk Encryption:: On by default
 Tor:: All traffic goes through it
-Application sandboxing:: using Containe
+Application sandboxing:: Using Containe
 System and Kernel Security:: Grssecurity+++
-Secure Mail Services:: with simple PGP key management
+Secure Mail Services:: With simple PGP key management
 
