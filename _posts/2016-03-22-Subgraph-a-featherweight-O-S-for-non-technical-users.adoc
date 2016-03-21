@@ -1,4 +1,4 @@
-:hp-tags: Subgraph, linux, OS, operating system, news
+:hp-tags: Subgraph, linux, OS, operating system, Debian, news
 
 = Subgraph - a featherweight OS for non-technical users
 
