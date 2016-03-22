@@ -8,5 +8,3 @@ The three teams behind November's terror attacks in Paris relied on prepaid burn
 
 
 link:http://arstechnica.com/tech-policy/2016/03/paris-terrorist-attacks-burner-phones-not-encryption/[Read more on ArsTechnica] and link:http://www.nytimes.com/2016/03/20/world/europe/a-view-of-isiss-evolution-in-new-details-of-paris-attacks.html[The New York Times]
-
-image:http://www.timeslive.co.za/incoming/2014/02/03/phones.jpg/ALTERNATES/crop_630x400/Phones.jpg[]
