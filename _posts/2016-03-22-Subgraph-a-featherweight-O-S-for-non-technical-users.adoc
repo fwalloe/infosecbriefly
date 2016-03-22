@@ -2,7 +2,7 @@
 
 = Subgraph - a featherweight OS for non-technical users
 
-The Debian-based Subgraph OS, first released in 2015, is a featherweight open-source solution that comes with all the security and privacy options pre-configured.
+The Debian-based Subgraph OS, first released in 2015, is a featherweight open-source solution that comes with all the security and privacy options pre-configured. 
 
 
 
