@@ -1,0 +1,34 @@
+:hp-tags: Uber, bug bounty, bug bounties, bugs, vulnerabilities 
+
+
+= Uber launches $10,000 bug bounty program 
+
+image:static4.businessinsider.com/image/56b10947c08a80880e8be83c-750-375/img_3627.png[]
+
+Uber just launched a bug bountry program that will pay up to $10,000 for critical vulnerabilities that could affect their users.
+
+They are mainly interested in the following categories of vulnerabilities:
+
+ Cross-site Scripting (XSS)
+ Cross-site Request Forgery
+ Server-Side Request Forgery (SSRF)
+ SQL Injection
+ Server-side Remote Code Execution (RCE)
+ XML External Entity Attacks (XXE)
+ Open Redirect Vulnerabilities
+ Access Control Issues 
+ Full Path Disclosure
+ Exposed Administrative Panels and Ports (Excluding OneLogin)
+ Directory Traversal Issues
+ Local File Disclosure (LFD)
+ Information Disclosure of Sensitive Information 
+    
+
+Rewards depend on severity:
+
+    Critical issues ($10,000) 
+	Significant Issues ($5,000) 
+	Medium Issues ($3,000)
+
+
+link:https://hackerone.com/uber[Submit bugs to Uber]
