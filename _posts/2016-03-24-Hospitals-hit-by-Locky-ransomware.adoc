@@ -1,0 +1,10 @@
+:hp-tags: ransomeware, locky, Brian Krebs, Bitcoins, spam
+
+= Hospitals hit by 'Locky' ransomware
+
+The Methodist Hospital in Henderson, Kentucky, had to declare an internal state of emergency on Tuesday after the ransomeware 'Locky' got onto its network through an attachement to a spam email. From that first infection, the ransomeware spread across the network, encrypting files and emails.
+
+The hospital, one of three hit by ransomeware in the past week, scrambled to restore access to encrypted files and emails. Desktops were turned off and brought back one at a time to ensure they were infection-free.  
+
+At time of writing it is unclear whether the hospital ended up paying the $1,600 ransom, but an attorney for the hospital told Krebs on Security that handing over the four Bitcoins had not been ruled out.
+
