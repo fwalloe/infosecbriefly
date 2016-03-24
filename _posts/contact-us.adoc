@@ -5,6 +5,6 @@
 Got a tip? You can reach us on link:mailto:contact@infosecbriefly.com[contact@infosecbriefly.com]
 
 
-Find us on link:https://www.facebook.com11/infosecbriefly/[Facebook] or link:https://twitter.com/InfoSecbriefly[Twitter]. 
+Find us on link:https://www.facebook.com/infosecbriefly/[Facebook] or link:https://twitter.com/InfoSecbriefly[Twitter]. 
 
 We've also got an link:http://feed43.com/3507126545100243.xml[RSS-feed].
