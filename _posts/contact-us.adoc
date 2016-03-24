@@ -1,34 +1,10 @@
-:hp-tags: Uber, bug bounty, bug bounties, bugs, vulnerabilities 
+:hp-tags: contact us, tips, Facebook, Twitter
+
+= Contact us
+
+Got a tip? You can reach us on link:mailto:contact@infosecbriefly.com[contact@infosecbriefly.com]
 
 
-= Uber launches $10,000 bug bounty program 
+Find us on link:https://www.facebook.com11/infosecbriefly/[Facebook] or link:https://twitter.com/InfoSecbriefly[Twitter]. 
 
-image:http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/02/03/uber.png?itok=hZsWxiXI[]
-
-Uber just launched a bug bountry program that will pay up to $10,000 for critical vulnerabilities that could affect their users.
-
-They are mainly interested in the following categories of vulnerabilities:
-
- Cross-site Scripting (XSS)
- Cross-site Request Forgery
- Server-Side Request Forgery (SSRF)
- SQL Injection
- Server-side Remote Code Execution (RCE)
- XML External Entity Attacks (XXE)
- Open Redirect Vulnerabilities
- Access Control Issues 
- Full Path Disclosure
- Exposed Administrative Panels and Ports (Excluding OneLogin)
- Directory Traversal Issues
- Local File Disclosure (LFD)
- Information Disclosure of Sensitive Information 
-    
-
-Rewards depend on severity:
-
-    Critical issues ($10,000) 
-	Significant Issues ($5,000) 
-	Medium Issues ($3,000)
-
-
-link:https://hackerone.com/uber[Submit bugs to Uber]
+We've also got an link:http://feed43.com/3507126545100243.xml[RSS-feed].
