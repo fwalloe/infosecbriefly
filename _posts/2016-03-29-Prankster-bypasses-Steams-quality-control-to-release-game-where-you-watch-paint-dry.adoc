@@ -1,13 +1,8 @@
 = Prankster bypasses Steam's quality control to release game where you watch paint dry
 :hp-tags: Valve, Steam, Watch paint dry, no time wasters fee, games, indie games 
 
-On Sunday an odd title appeared on Steam: 'Watch Paint Dry', the game where you, well, watch paint dry. But unlike joke games about goats and what it's like to be bread, this wasn't the result of Steam's ever-slipping quality control, but an exploit.
+On Sunday an odd title appeared on Steam: 'Watch Paint Dry', the game where you, well, watch paint dry. Unlike other joke games about goats and what it's like to be bread, this wasn't the result of Steam's ever-slipping quality control, but an exploit.
 
-'Ruby', a student with an interest in InfoSec, managed to bypass Steam's quality control and even evaded the $100 'no time wasters fee'. Watch Paint Dry was published on Steam without anyone taking a look at it. 
+'Ruby', a student with an interest in InfoSec, managed to bypass Steam's quality control, evade the $100 'no time wasters fee' and publish 'Watch Paint Dry' without anyone at Valve getting a look at the game. 
 
-Valve took care of the vulnerabilities, but if you happen upon a time-machine then this is a fantastic guide on how to release your game and could possibly have 
-
-g to get their games on to steam. This is no more than a prank and was merely to test something I’ve been trying to report to Valve for the past few months — the ability to get any game you want on Steam, without Valve ever even having a look at it. 
-
-
-Get the details on link:https://medium.com/@rubiimeow/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753#.r473cbpfn[Medium]
+Valve already took care of the vulnerabilities he leveraged, but it's an interesting read: get the details on link:https://medium.com/@rubiimeow/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753#.r473cbpfn[Medium]
