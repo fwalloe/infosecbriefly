@@ -23,13 +23,15 @@
 <body class="home-template">
 
 <script type="text/javascript">
-    if (screen.width <=750) {//If it's a mobile phone, load cover image for mobile
-        <header class="main-header " style="background-image: url(images/cover-image-for-mobile.png)">
-}
-    else {
+    if (screen.width > 745) 
+    { //Load standard cover image for desktop/laptop
         <header class="main-header " style="background-image: url(images/cover-image.png)">
     }
-</script>   <!-- Lazy -->
+    else 
+    { //If it's a mobile phone, load cover image for mobile
+        <header class="main-header " style="background-image: url(images/cover-image-for-mobile.png)">
+    }
+</script>   <!-- Lazy way to load alternate cover-image on mobile-->
 
 
     <nav class="main-nav overlay clearfix">
