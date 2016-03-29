@@ -1,0 +1,17 @@
+:hp-tags: Cisco, running-config, startup-config, save settings on a Cisco router
+
+= Save running-configuration file on a Cisco router
+
+When you make changes to the configuration settings on a Cisco router, the settings are saved to the running-config, which is stored in volatile RAM.
+
+The problem with this is that when the router loses power - say, when it is rebooted - all the settings will be lost. To avoid this, the running-config must be copied to the startup-config.
+
+We do this from Privileged EXEC Mode:
+	Router# copy running-config startup-config
+
+This copies the running-config (volatie RAM) to the startup-config (non-volatile RAM / NVRAM). You can now reset the router without losing 
+
+To confirm that the settings were saved to the startup-config, you can use the priviledged EXEC command:
+	Router# show startup-config 
+
+The show command displays the startup-config on screen, which is useful to verify settings and to ensure there are no unencrypted passwords in the config file.

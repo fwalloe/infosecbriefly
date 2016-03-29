@@ -22,8 +22,16 @@
 </head>
 <body class="home-template">
 
-    
-<header class="main-header " style="background-image: url(images/cover-image.png)">
+<script type="text/javascript">
+    if (screen.width <=750) {//If it's a mobile phone, load cover image for mobile
+        <header class="main-header " style="background-image: url(images/cover-image-for-mobile.png)">
+}
+    else {
+        <header class="main-header " style="background-image: url(images/cover-image.png)">
+    }
+</script>   <!-- Lazy -->
+
+
     <nav class="main-nav overlay clearfix">
         <a class="blog-logo" href="http://www.infosecbriefly.com"><img src="images/logo.png" alt="Blog Logo" /></a>
         <!-- <a class="subscribe-button icon-feed" href="http://www.infosecbriefly.com/rss/">Subscribe</a> -->
