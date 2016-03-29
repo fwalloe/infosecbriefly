@@ -1,6 +1,8 @@
 = Prankster bypasses Steam's quality control to release game where you watch paint dry
 :hp-tags: Valve, Steam, Watch paint dry, no time wasters fee, games, indie games 
 
+image:https://d262ilb51hltx0.cloudfront.net/max/2000/1*UWCjlU10d1ykltnKEoqU0A.png[]
+
 On Sunday an odd title appeared on Steam: 'Watch Paint Dry', the game where you, well, watch paint dry. Unlike other joke games about goats and what it's like to be bread, this wasn't the result of Steam's ever-slipping quality control, but an exploit.
 
 'Ruby', a student with an interest in InfoSec, managed to bypass Steam's quality control, evade the $100 'no time wasters fee' and publish 'Watch Paint Dry' without anyone at Valve getting a look at the game. 
