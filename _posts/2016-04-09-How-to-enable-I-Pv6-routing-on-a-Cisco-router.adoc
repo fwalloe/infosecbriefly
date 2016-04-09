@@ -1,0 +1,9 @@
+= How to: enable IPv6 routing on a Cisco router
+:hp-tags: IPv6 routing, IPv6, OSPFv3, ipv6 unicast-routing, Cisco, CCNA
+
+Before you can get started with OSPFv3 (Open Shortest Path First), the IPv6 router must be configured to forward traffic. This is done with the *ipv6 unicast-routing* global configuration command. 
+
+  R1>enable
+  R1#>configuration terminal
+  	Alternatively: R1#>conf t
+  R1(config)#ipv6 unicast-routing
