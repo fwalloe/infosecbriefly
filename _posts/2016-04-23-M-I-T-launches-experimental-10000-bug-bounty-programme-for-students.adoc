@@ -1,0 +1,38 @@
+= MIT launches experimental $10,000 bug bounty programme for students
+:hp-tags: MIT, bug bounty, Massachusetts Institute of Technology
+
+The Massachusetts Institute of Technology hopes to up its online security and "foster a community for students to research research and test the limits of cyber security in a responsible fashion". 
+
+The program has the following Rules and Restrictions:
+
+    1.To take part, you must be an MIT affiliate with valid certificates. If you are not eligible for the bounty program, you may still submit reports to our old reporting system here.
+    2.Do not attempt to read, write, or access any pivate data you gain access to.
+    3.Do not publicly disclose any vulnerabilities before they've been resolved.
+    4.Do not disrupt services, or impair their.
+    5.Do not use noisy automated scanners.
+    6.All testing must fall within scope.
+    
+    
+In-Scope Vulnerabilities:
+
+  Remote Code Execution (RCE)
+  SQL Injection
+  Authorization bypass / escalation
+  Information Leaks
+  Cross Site Scripting (XSS)
+  Cross Site Request Forgery (CSRF)
+  
+
+Vulnerabilities That Are Not In Scope:
+
+  Any bug that does not pose a real or demonstrable security risk
+  Denial Of Service Attacks (DOS)
+  Social Engineering
+  Physical exploits of our servers or network
+  Local network-based exploits such as DNS poisoning or ARP spoofing
+
+
+ 
+
+
+Read more: link:https://bounty.mit.edu/[MIT's bug bounty]
