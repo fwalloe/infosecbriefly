@@ -1,0 +1,3 @@
+== Infographic: What is an SQL Injection
+
+image://www.veracode.com/sites/default/files/styles/media_responsive_widest/public/sql-injection-ig.jpg?itok=7StHjjzH[]
